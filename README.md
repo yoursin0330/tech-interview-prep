@@ -1,2 +1,3 @@
 # tech-interview-prep
-기술 면접 학습을 위한 Repository입니다.
+https://github.com/VSFe/Tech-Interview
+해당 내용을 토대로 기술 면접을 준비하는 Repository입니다.
